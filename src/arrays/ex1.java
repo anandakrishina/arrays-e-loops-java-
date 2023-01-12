@@ -1,4 +1,7 @@
 package src.arrays;
 
-public class ex1 {
+public class Ex1 {
+
+
+
 }
